@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flap Flap</string>
+    <string name="pref_music">pref_music</string>
+    <string name="pref_notification">pref_notification</string>
+    <string name="pref_nickname">pref_nickname</string>
+    <string name="playBtn">Play</string>
+    <string name="SettingsBtn">Settings</string>
+    <string name="GoOnline">Go Online</string>
+    <string name="ExitBtn">Exit</string>
+    <string name="HighScoreBtn">High Score</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="registerBtn">Register</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+
+</resources>
